@@ -3,8 +3,8 @@
 This is a visualiser for common searching and sorting algorithms, including:
 
 Searching:
-*Linear Search
-*Binary Search
+* Linear Search
+* Binary Search
 
 Sorting:
 *Merge Sort
